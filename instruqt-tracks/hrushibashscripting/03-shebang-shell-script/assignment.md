@@ -1,6 +1,6 @@
 ---
 slug: shebang-shell-script
-id: kn4yymtnxjz0
+id: r3oxphgtxnxc
 type: challenge
 title: Shebang Shell Script
 teaser: Shebang Shell Script.

@@ -1,6 +1,6 @@
 ---
 slug: test-shell
-id: ixum58bh9oz2
+id: p0fyotnhxx4y
 type: challenge
 title: Test Shell
 tabs:

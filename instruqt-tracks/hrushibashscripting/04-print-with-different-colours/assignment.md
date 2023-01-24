@@ -1,6 +1,6 @@
 ---
 slug: print-with-different-colours
-id: p5v2qygrv9si
+id: 6camn4qfkr3p
 type: challenge
 title: print with different colours
 teaser: A short description of the challenge.
