@@ -1,6 +1,6 @@
 ---
 slug: system-defined-variables
-id: cmojl2dr6wvp
+id: gpxui7jgdmzl
 type: challenge
 title: System Defined Variables
 teaser: System Defined Variables.

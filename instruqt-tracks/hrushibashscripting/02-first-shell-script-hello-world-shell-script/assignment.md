@@ -1,6 +1,6 @@
 ---
 slug: first-shell-script-hello-world-shell-script
-id: 3zabwfrhdwbv
+id: 2narprxkdxo0
 type: challenge
 title: First Shell Script - Hello World Shell Script
 teaser: First Shell Script - Hello World Shell Script.

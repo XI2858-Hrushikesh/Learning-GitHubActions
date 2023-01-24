@@ -30,9 +30,11 @@ description: |-
 icon: ""
 tags:
 - ""
+- prod
 owner: instruqt-support
 developers:
 - hrushikesh@instruqt.com
 - jacob@instruqt.com
-checksum: "15425569038307436914"
+maintenance: false
+checksum: "5457721376322521222"
 timelimit: 10000

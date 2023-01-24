@@ -1,6 +1,6 @@
 ---
 slug: take-input-from-user-in-shell-script
-id: 2pbne3ox17qc
+id: kpweyjzkkwdj
 type: challenge
 title: Take Input From User in Shell Script
 teaser: Take Input From User in Shell Script.
