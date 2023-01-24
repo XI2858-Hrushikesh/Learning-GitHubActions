@@ -1,0 +1,38 @@
+slug: hrushibashscripting
+id: klmclnr4hdic
+version: 0.0.1
+title: hrushibashscripting
+description: |-
+  Bash is a command-line interpreter or Unix Shell and it is widely used in GNU/Linux Operating System.  It is written by Brian Jhan Fox. It is used as a default login shell for most Linux distributions. Scripting is used to automate the execution of the tasks so that humans do not need to perform them individually. Bash scripting is a great way to automate different types of tasks in a system. Developers can avoid doing repetitive tasks using bash scripting.
+
+  Bash scripting supports variables, conditional statements, and loops just like programming languages. Below are some of the applications of Bash Scripts –
+
+  **Applications of Bash Scripts:**
+
+  - Manipulating files
+  - Executing routine tasks like Backup operation
+  - Automation
+
+  **Advantages of Bash Scripts:**
+
+  - It is simple.
+  - It helps to avoid doing repetitive tasks
+  - Easy to use
+  - Frequently performed tasks can be automated
+  - A sequence of commands can be run as a single command.
+
+  **Disadvantages of Bash Scripts:**
+
+  - Any mistake while writing can be costly.
+  - A new process launched for almost every shell command executed
+  - Slow execution speed
+  - Compatibility problems between different platforms
+icon: ""
+tags:
+- ""
+owner: instruqt-support
+developers:
+- hrushikesh@instruqt.com
+- jacob@instruqt.com
+checksum: "15425569038307436914"
+timelimit: 10000

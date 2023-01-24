@@ -1,0 +1,5 @@
+version: "3"
+virtualmachines:
+- name: myhost
+  image: ubuntu-os-cloud/ubuntu-2004-lts
+  machine_type: n1-standard-1
